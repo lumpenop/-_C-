@@ -12,7 +12,6 @@ int main(void)
 void menu(void)
 {
     
-
     string day = get_string("오늘은 무슨 요일입니까?:\n");
    
     if(strcmp(day,"월요일")==0)
